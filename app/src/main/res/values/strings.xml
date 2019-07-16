@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="welcome">WELCOME TO ALC 4.0</string>
+    <string name="my_profile">My Profile</string>
+    <string name="about_alc">About ALC</string>
+    <string name="track">TRACK</string>
+    <string name="android">Android</string>
+    <string name="nigeria">Nigeria</string>
+    <string name="country">COUNTRY</string>
+    <string name="itstimiking_gmail">itstimiking@gmail</string>
+    <string name="num">08046455310</string>
+    <string name="slack">@timi Ambaye</string>
+    <string name="email">EMAIL</string>
+    <string name="phone_number">PHONE NUMBER</string>
+    <string name="name">Timi Ambaye</string>
+    <string name="slack_username">SLACK USERNAME</string>
+    <string name="welcome_to_alc_4_0">WELCOME TO ALC 4.0</string>
+</resources>
